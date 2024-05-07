@@ -1,4 +1,4 @@
-# SpeedyAirFreight
+# SpeedyAir.ly Freight Services
 
 # Flight Scheduling System
 
